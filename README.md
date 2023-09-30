@@ -15,26 +15,26 @@ Despite the fact that I'm not familiar with Github at the moment, I'll try to le
 The main things I post might include:
 
 - 代码:
--   我自己编写的一些开源项目(目前我还没有这个能力,哈哈)
+  - 我自己编写的一些开源项目(目前我还没有这个能力,哈哈)
 - 笔记:
--   编程学习笔记,例如C++,Python,Java等
--   数学与统计领域的笔记,例如微积分,线性代数等
--   计算机专业与相关领域的笔记
--   其他的笔记(可能有)
+  -   编程学习笔记,例如C++,Python,Java等
+  -   数学与统计领域的笔记,例如微积分,线性代数等
+  -   计算机专业与相关领域的笔记
+  -   其他的笔记(可能有)
 - 其他:
--   一些资源的分享(如果我有的话)
--   随笔和小说(我不确定Github是否允许发布这一类内容)
+  -   一些资源的分享(如果我有的话)
+  -   随笔和小说(我不确定Github是否允许发布这一类内容)
 
 - Code:
--   Some open source projects written by myself (I do not currently have the ability to do this, haha)
+  -   Some open source projects written by myself (I do not currently have the ability to do this, haha)
 - Notes:
--   Programming notes (for instance, C++, Python, Java)
--   Notes on mathematics and statistics (for instance, calculus and linear algebra)
--   Notes on CS and related fields
--   Other notes (maybe)
+  -   Programming notes (for instance, C++, Python, Java)
+  -   Notes on mathematics and statistics (for instance, calculus and linear algebra)
+  -   Notes on CS and related fields
+  -   Other notes (maybe)
 - Others:
--   Some resources to share (if I have any)
--   Essays and fiction (I'm not sure  if Github allows this type of content to be posted)
+  -   Some resources to share (if I have any)
+  -   Essays and fiction (I'm not sure  if Github allows this type of content to be posted)
 
 如果我发布的东西对你有所帮助,希望你能给我点亮星星.如果有什么问题,欢迎你留言与我交流.
 
