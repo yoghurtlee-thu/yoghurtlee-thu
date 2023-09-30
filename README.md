@@ -12,8 +12,6 @@ Despite the fact that I'm not familiar with Github at the moment, I'll try to le
 
 我发布的内容主要可能包括:
 
-The main things I post might include:
-
 - 代码:
   - 我自己编写的一些开源项目(目前我还没有这个能力,哈哈)
 - 笔记:
@@ -24,6 +22,10 @@ The main things I post might include:
 - 其他:
   -   一些资源的分享(如果我有的话)
   -   随笔和小说(我不确定Github是否允许发布这一类内容)
+
+---
+
+The main things I post might include:
 
 - Code:
   -   Some open source projects written by myself (I do not currently have the ability to do this, haha)
