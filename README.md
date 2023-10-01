@@ -1,4 +1,4 @@
-**你好,我是李垚,来自清华大学某班.**
+**你好,我是李垚,来自清华大学.**
 
 **Hi, I'm Yoghurt Lee from Tsinghua University (Beijing,China).**
 
@@ -38,9 +38,9 @@ The main things I post might include:
   -   Some resources to share (if I have any)
   -   Essays and fiction (I'm not sure  if Github allows this type of content to be posted)
 
-如果我发布的东西对你有所帮助,希望你能给我点亮星星.如果有什么问题,欢迎你留言与我交流.
+如果我发布的东西对你有所帮助,希望你能给我点亮星星.如果有什么问题,欢迎你留言与我交流.希望我们能共同进步.
 
-If something I post is helpful to you, I sincerely hope you can give me a star. Leaving a friendly comment is always welcomed if you have any question.
+If something I post is helpful to you, I sincerely hope you can give me a star. Leaving a friendly comment is always welcomed if you have any question.Hope we can make progress together.
 
 > 拥抱自己,拥抱永恒
 >
