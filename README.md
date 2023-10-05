@@ -19,9 +19,6 @@ Despite the fact that I'm not familiar with Github at the moment, I'll try to le
   -   数学与统计领域的笔记,例如微积分,线性代数等
   -   计算机专业与相关领域的笔记
   -   其他的笔记(可能有)
-- 其他:
-  -   一些资源的分享(如果我有的话)
-  -   随笔和小说(我不确定Github是否允许发布这一类内容)
 
 ---
 
@@ -34,9 +31,6 @@ The main things I post might include:
   -   Notes on mathematics and statistics (for instance, calculus and linear algebra)
   -   Notes on CS and related fields
   -   Other notes (maybe)
-- Others:
-  -   Some resources to share (if I have any)
-  -   Essays and fiction (I'm not sure  if Github allows this type of content to be posted)
 
 如果我发布的东西对你有所帮助,希望你能给我点亮星星.如果有什么问题,欢迎你留言与我交流.希望我们能共同进步.
 
