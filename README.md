@@ -1,6 +1,6 @@
-**你好，我是李垚，来自清华大学。你也可以叫我小氯（Chlorine）。**
+**你好，我是李垚，来自清华大学。你可以叫我 Yoghurt 或者小氯（Chlorine）。**
 
-**Hi, I'm Yoghurt Lee from Tsinghua University (Beijing,China). You can also call me Chlorine.**
+**Hi, I'm Yoghurt Lee from Tsinghua University (Beijing,China). You can call me Yoghurt or Chlorine.**
 
 我现在还是一个计算机小白，但我希望通过努力学习和不断实践，成为一位优秀的开源开发者。
 
