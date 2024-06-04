@@ -15,8 +15,9 @@ If what I've shared here is helpful to you, a little star would make my day! Fee
 >
 > Carry Forward the Legacy of Open Wisdom!
 
+头像来源：[Bilibili @深藏blue的柚酱](https://www.bilibili.com/opus/926510203395899414)
 
-
+Avatar source: [Bilibili @深藏blue的柚酱](https://www.bilibili.com/opus/926510203395899414)
 
 <!---
 yoghurtlee-thu/yoghurtlee-thu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
