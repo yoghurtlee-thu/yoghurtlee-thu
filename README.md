@@ -14,7 +14,7 @@
 > [!important]
 > 为往圣继绝学！
 
-头像来源：[Pixiv-ZikaChan](https://www.pixiv.net/artworks/106366043)，一切版权归原作者所有，正在联系作者获取使用许可，可能随时更新或移除。（我不是二次元，单纯觉得好看而已）
+头像来源：[Pixiv-ZikaChan](https://www.pixiv.net/artworks/106366043)，一切版权归原作者所有，正在联系作者获取使用许可，可能随时更新或移除（我不是二次元，只是单纯觉得好看而已）。
 
 ~~别问我为什么用着 macOS 却拿 Windows 11 娘当头像。~~
 
