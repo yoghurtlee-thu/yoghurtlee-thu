@@ -9,7 +9,7 @@
 > [!important]
 > 为往圣继绝学！
 
-头像来源：[这里](https://mzh.moegirl.org.cn/Windows_11%E5%A8%98)（我不是二次元，单纯觉得好看而已）
+头像来源：[Pixiv-ZikaChan](https://www.pixiv.net/artworks/106366043)，一切版权归原作者所有。（我不是二次元，单纯觉得好看而已）
 
 ~~别问我为什么用着 macOS 却拿 Windows 11 娘当头像。~~
 
@@ -24,7 +24,7 @@ If what I've shared here is helpful to you, a little star would make my day! Fee
 > [!important]
 > Carry Forward the Legacy of Open Wisdom!
 
-Avatar source: [Here](https://mzh.moegirl.org.cn/Windows_11%E5%A8%98) (I am not a fan of ACGN; I just find this img visually appealing.)
+Avatar source: [Pixiv-ZikaChan](https://www.pixiv.net/artworks/106366043), All rights reserved by the copyright owner. (I am not a fan of ACGN; I just find this img visually appealing.)
 
 ~~Why I use macOS but have a Windows 11 girl as my avatar?~~
 
