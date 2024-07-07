@@ -15,9 +15,17 @@ If what I've shared here is helpful to you, a little star would make my day! Fee
 >
 > Carry Forward the Legacy of Open Wisdom!
 
-头像来源：[Bilibili @深藏blue的柚酱](https://www.bilibili.com/opus/926510203395899414)
+头像来源：[这里](https://mzh.moegirl.org.cn/Windows_11%E5%A8%98)
 
-Avatar source: [Bilibili @深藏blue的柚酱](https://www.bilibili.com/opus/926510203395899414)
+Avatar source: [Here](https://mzh.moegirl.org.cn/Windows_11%E5%A8%98)
+
+> [!tips]
+> 1. 我不是二次元，单纯觉得好看而已。
+> ~~2. 别问我为什么用着 macOS 却拿 Windows 11 娘当头像。~~
+
+> [!tips]
+> 1. I am not a fan of ACGN; I just find this img visually appealing.
+> ~~2. Why I use macOS but have a Windows 11 girl as my avatar?~~
 
 <!---
 yoghurtlee-thu/yoghurtlee-thu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
