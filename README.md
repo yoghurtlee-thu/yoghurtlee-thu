@@ -19,12 +19,14 @@ If what I've shared here is helpful to you, a little star would make my day! Fee
 
 Avatar source: [Here](https://mzh.moegirl.org.cn/Windows_11%E5%A8%98)
 
-> [!tips]
+> [!tip]
 > 1. 我不是二次元，单纯觉得好看而已。
+> 
 > ~~2. 别问我为什么用着 macOS 却拿 Windows 11 娘当头像。~~
 
-> [!tips]
+> [!tip]
 > 1. I am not a fan of ACGN; I just find this img visually appealing.
+> 
 > ~~2. Why I use macOS but have a Windows 11 girl as my avatar?~~
 
 <!---
