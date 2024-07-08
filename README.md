@@ -23,7 +23,7 @@
 > [!tip]
 > Below is my humble self-introduction.
 > 
-> ~~Why not make it more splendid? For the big shots, a splendid `README` is the icing on the cake, but for me, it would just be a case of gilding the lily.~~
+> ~~Why not make it more splendid? For the big shots, a splendid `README` is the icing on the cake, but for me, it would just be a case of gilding the rusty.~~
 
 **Hi, I'm Yoghurt Lee from Tsinghua University (Beijing, China). You can call me Yoghurt or Chlorine.**
 
