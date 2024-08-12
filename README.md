@@ -14,10 +14,6 @@
 > [!important]
 > 为往圣继绝学！
 
-头像来源：[Pixiv-ZikaChan](https://www.pixiv.net/artworks/106366043)，一切版权归原作者所有，正在联系作者获取使用许可，可能随时更新或移除（我不是二次元，只是单纯觉得好看而已）。
-
-~~别问我为什么用着 macOS 却拿 Windows 11 娘当头像。~~
-
 # 🇬🇧 English
 
 > [!tip]
@@ -33,10 +29,6 @@ If what I've shared here is helpful to you, a little star would make my day! Fee
 
 > [!important]
 > Carry Forward the Legacy of Open Wisdom!
-
-Avatar source: [Pixiv-ZikaChan](https://www.pixiv.net/artworks/106366043), All rights reserved by the copyright owner, who I'm connecting with and this avatar may be updated or removed at any time. (I am not a fan of ACGN; I just find this img visually appealing.)
-
-~~Why I use macOS but have Windows 11 tan as my avatar?~~
 
 <!---
 yoghurtlee-thu/yoghurtlee-thu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
