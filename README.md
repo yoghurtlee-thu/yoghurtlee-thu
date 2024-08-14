@@ -30,6 +30,22 @@ If what I've shared here is helpful to you, a little star would make my day! Fee
 > [!important]
 > Carry Forward the Legacy of Open Wisdom!
 
+# 🇪🇸 Español
+
+> [!tip]
+> A continuación, mi modesta presentación.
+> 
+> ~~¿Por qué no hacerla más impresionante? Para los expertos, un `README` espectacular es la guinda del pastel, pero para mí, sería como ponerle perlas a un cerdo.~~
+
+**¡Hola! Soy Yoghurt Lee, estudiante de la Universidad de Tsinghua (Pekín, China). Puedes llamarme Yoghurt o Chlorine.**
+
+Todavía soy un novato en informática, pero aspiro a convertirme en un excelente desarrollador de código abierto a través del estudio constante y la práctica continua.
+
+Si lo que comparto aquí te resulta útil, ¡una estrellita me alegraría el día! No dudes en comentar si tienes alguna pregunta - me encantaría charlar contigo. ¡Crezcamos juntos y construyamos algo genial en el mundo del código abierto!
+
+> [!important]
+> ¡Continuemos el legado del conocimiento abierto!
+
 <!---
 yoghurtlee-thu/yoghurtlee-thu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
