@@ -5,7 +5,7 @@
 > 
 > ~~为什么不华丽一点？大佬们的 `README` 华丽叫锦上添花，我只能叫金玉其外。~~
 
-**你好，我是李垚，来自清华大学。你可以叫我 Yoghurt 或者小氯（Chlorine）。**
+**你好，我是 Chlorine，来自清华大学。你可以叫我小氯，或者这个名字的任何友好的变体。**
 
 我现在还是一个计算机小白，但我希望通过努力学习和不断实践，成为一位优秀的开源开发者。
 
@@ -21,7 +21,7 @@
 > 
 > ~~Why not make it more splendid? For the big shots, a splendid `README` is the icing on the cake, but for me, it would just be a case of gilding the rusty.~~
 
-**Hi, I'm Yoghurt Lee from Tsinghua University (Beijing, China). You can call me Yoghurt or Chlorine.**
+**Hello, I'm Chlorine from Tsinghua University (Beijing, China). You can call me Xiaolü (Little Chlorine), Chlorinya, or any friendly variation.**
 
 I am still a computer noob, but I hope to become an excellent open source developer through diligent study and continuous practice.
 
@@ -37,7 +37,7 @@ If what I've shared here is helpful to you, a little star would make my day! Fee
 > 
 > ~~¿Por qué no hacerla más impresionante? Para los expertos, un `README` espectacular es la guinda del pastel, pero para mí, sería como ponerle perlas a un cerdo.~~
 
-**¡Hola! Soy Yoghurt Lee, estudiante de la Universidad de Tsinghua (Pekín, China). Puedes llamarme Yoghurt o Chlorine.**
+**Hola, soy Chlorine (es decir, cloro) de la Universidad de Tsinghua en Pekín, China. Puedes llamarme simplemente Chlorine, Clorín, o cualquier variación amistosa.**
 
 Todavía soy un novato en informática, pero aspiro a convertirme en un excelente desarrollador de código abierto a través del estudio constante y la práctica continua.
 
