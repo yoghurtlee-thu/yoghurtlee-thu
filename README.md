@@ -37,7 +37,7 @@ If what I've shared here is helpful to you, a little star would make my day! Fee
 > 
 > ~~¿Por qué no hacerla más impresionante? Para los expertos, un `README` espectacular es la guinda del pastel, pero para mí, sería como ponerle perlas a un cerdo.~~
 
-**Hola, soy Chlorine (es decir, cloro) de la Universidad de Tsinghua en Pekín, China. Puedes llamarme simplemente Chlorine, Clorín, o cualquier variación amistosa.**
+**Hola, soy Chlorine, que significa "cloro" en español, de la Universidad de Tsinghua en Pekín, China. Puedes llamarme simplemente Chlorine, Clori, o cualquier otra variación amistosa.**
 
 Todavía soy un novato en informática, pero aspiro a convertirme en un excelente desarrollador de código abierto a través del estudio constante y la práctica continua.
 
